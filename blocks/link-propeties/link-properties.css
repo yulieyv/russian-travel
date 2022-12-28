@@ -1,0 +1,8 @@
+.link-properties {
+  cursor: pointer;
+  transition: opacity .5s linear;
+}
+
+.link-properties:hover {
+  opacity: .8;
+}
